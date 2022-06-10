@@ -7,6 +7,6 @@
     <title>Denis Electronics</title>
 </head>
 <body>
-    welcoome Dneis Mugabe, Greeting From Muniru 
+    welcome Dneis Mugabe, Greeting From Muniru 
 </body>
 </html>
