@@ -31,11 +31,8 @@
 
 
         <div id="header">
-
             <div class="container">
-
                 <div class="row">
-
                     <div class="col-md-3">
                         <div class="header-logo">
                             <a href="./" class="logo">
@@ -53,86 +50,19 @@
                             </form>
                         </div>
                     </div>
-
-
-                    <div class="col-md-3 clearfix">
-                        <div class="header-ctn">
-
-                            <div>
-                                <a href="#">
-                                    <i class="fa fa-heart-o"></i>
-                                    <span>Your Wishlist</span>
-                                    <div class="qty">2</div>
-                                </a>
-                            </div>
-
-
-                            <div class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">
-                                    <i class="fa fa-shopping-cart"></i>
-                                    <span>Your Cart</span>
-                                    <div class="qty">3</div>
-                                </a>
-                                <div class="cart-dropdown">
-                                    <div class="cart-list">
-                                        <div class="product-widget">
-                                            <div class="product-img">
-                                                <img src="img/xproduct01.png.pagespeed.ic.bnOya297qz.png" alt="">
-                                            </div>
-                                            <div class="product-body">
-                                                <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                                <h4 class="product-price"><span class="qty">1x</span>$980.00</h4>
-                                            </div>
-                                            <button class="delete"><i class="fa fa-close"></i></button>
-                                        </div>
-                                        <div class="product-widget">
-                                            <div class="product-img">
-                                                <img src="img/xproduct02.png.pagespeed.ic.0F2Q-2YhXR.png" alt="">
-                                            </div>
-                                            <div class="product-body">
-                                                <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                                <h4 class="product-price"><span class="qty">3x</span>$980.00</h4>
-                                            </div>
-                                            <button class="delete"><i class="fa fa-close"></i></button>
-                                        </div>
-                                    </div>
-                                    <div class="cart-summary">
-                                        <small>3 Item(s) selected</small>
-                                        <h5>SUBTOTAL: $2940.00</h5>
-                                    </div>
-                                    <div class="cart-btns">
-                                        <a href="#">View Cart</a>
-                                        <a href="#">Checkout <i class="fa fa-arrow-circle-right"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-
-
-                            <div class="menu-toggle">
-                                <a href="#">
-                                    <i class="fa fa-bars"></i>
-                                    <span>Menu</span>
-                                </a>
-                            </div>
-
-                        </div>
-                    </div>
-
                 </div>
-
             </div>
-
         </div>
-
     </header>
 
-
+<!-- Navigation Menu -->
     <nav id="navigation">
         <div class="container">
             <div id="responsive-nav">
                 <ul class="main-nav nav navbar-nav">
-                    <li class="active"><a href="./">Home</a></li>
-                    <li><a href="top-selling.php">Top Selling</a></li>
+                    <li><a href="./">Home</a></li>
+                    <li class="active"><a href="top-selling.php">Top Selling</a></li>
+                    <li><a href="laptops.php">Laptops</a></li>
                 </ul>
             </div>
         </div>
@@ -204,15 +134,11 @@
                                     <div class="product">
                                         <div class="product-img">
                                             <img src="img/xproduct06.png.pagespeed.ic._yeq3mFhdV.png" alt="">
-                                            <div class="product-label">
-                                                <span class="sale">-30%</span>
-                                                <span class="new">NEW</span>
-                                            </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Category</p>
-                                            <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                            <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                            <p class="product-category">Laptop</p>
+                                            <h3 class="product-name"><a href="#">MSI 2022</a></h3>
+                                            <h4 class="product-price">Tsh 980,000 <del class="product-old-price">Tsh 990,000</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -240,9 +166,9 @@
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Category</p>
-                                            <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                            <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                            <p class="product-category">Smartphones</p>
+                                            <h3 class="product-name"><a href="#">Samsung S6 Edge</a></h3>
+                                            <h4 class="product-price">Tsh 380,000 <del class="product-old-price">Tsh 420,000</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -270,9 +196,9 @@
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Category</p>
-                                            <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                            <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                            <p class="product-category">Laptop</p>
+                                            <h3 class="product-name"><a href="#">Asus Gen 2</a></h3>
+                                            <h4 class="product-price">Tsh 980,000 <del class="product-old-price">Tsh 990,000</del></h4>
                                             <div class="product-rating">
                                             </div>
                                             <div class="product-btns">
@@ -292,9 +218,9 @@
                                             <img src="img/xproduct09.png.pagespeed.ic.ZyaawIedge.png" alt="">
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Category</p>
-                                            <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                            <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                            <p class="product-category">Camera</p>
+                                            <h3 class="product-name"><a href="#">Rekan CAmera</a></h3>
+                                            <h4 class="product-price">Tsh 180,000 <del class="product-old-price">Tsh 240,000</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -319,9 +245,9 @@
                                             <img src="img/xproduct01.png.pagespeed.ic.bnOya297qz.png" alt="">
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Category</p>
-                                            <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                            <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                            <p class="product-category">Laptop</p>
+                                            <h3 class="product-name"><a href="#">Macboom Pro 2021</a></h3>
+                                            <h4 class="product-price">Tsh 480,000 <del class="product-old-price">Tsh 500,000</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -377,7 +303,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -389,7 +315,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -401,7 +327,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -415,7 +341,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -427,7 +353,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -439,7 +365,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -463,7 +389,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -475,7 +401,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -487,7 +413,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -501,7 +427,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -513,7 +439,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -525,7 +451,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -550,7 +476,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -562,7 +488,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -574,7 +500,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -588,7 +514,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -600,7 +526,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
@@ -612,7 +538,7 @@
                                 <div class="product-body">
                                     <p class="product-category">Category</p>
                                     <h3 class="product-name"><a href="#">product name goes here</a></h3>
-                                    <h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
+                                    <h4 class="product-price">Tsh 980.00 <del class="product-old-price">Tsh 990.00</del></h4>
                                 </div>
                             </div>
 
