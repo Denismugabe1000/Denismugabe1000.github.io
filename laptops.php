@@ -8,7 +8,7 @@
      <style>
          body { background color : grey: }
          h1 { color: azure;
-             margin-inline: 20px;
+             margin-inline: 50px;
          }
     </style>
     <title>Design Create</title>
