@@ -7,7 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
      <style>
          h1 { color: azure;
-             margin-inline: 20px;
+             margin-inline: 20px
+         font-size: 20px;
          }
     </style>
     <title>Design Create</title>
