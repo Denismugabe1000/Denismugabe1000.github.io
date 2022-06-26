@@ -6,8 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
      <style>
-         body { background color : green: }
-         h1 { color: azure;
+         bod { color: azure;
              margin-inline: 20px;
          }
     </style>
